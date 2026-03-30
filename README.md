@@ -69,9 +69,7 @@ python number-location_404.py
 📸 Preview
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/demo1.png" width="250"/>
-  <img src="https://user-images.githubusercontent.com/placeholder/demo2.png" width="250"/>
-</p>
+  <img src="https://i.postimg.cc/4NX9ZWFz/1774775798649.png" width="250"/>
 ---
 
 🔑 Premium Access
@@ -105,10 +103,4 @@ Developer is not responsible for any misuse.
   <b>Developed by Shuvo</b><br>
   © SOCUETY 404
 </p>
----
-
-<!-- FOOTER --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
-```
 ---
