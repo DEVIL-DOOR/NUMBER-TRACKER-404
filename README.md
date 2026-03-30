@@ -65,13 +65,6 @@ python number-location_404.py
 
 
 ---
-
-📸 Preview
-
-<p align="center">
-  <img src="https://i.postimg.cc/4NX9ZWFz/1774775798649.png" width="250"/>
----
-
 🔑 Premium Access
 
 💎 Full Power API ব্যবহার করতে Premium Key প্রয়োজন
