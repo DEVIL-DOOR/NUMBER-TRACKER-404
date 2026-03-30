@@ -99,8 +99,5 @@ Developer is not responsible for any misuse.
 
 🧠 Author
 
-<p align="center">
-  <b>Developed by Shuvo</b><br>
-  © SOCUETY 404
-</p>
----
+Developed by Shuvo
+  © SOCUETY 400
