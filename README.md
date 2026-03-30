@@ -1,28 +1,114 @@
-শুভ ভাই, একদম সরাসরি এবং প্রফেশনাল ভাবে লিখে দিচ্ছি। এখানে কোনো নির্দিষ্ট জেলার নাম বা সংখ্যা উল্লেখ করা হয়নি, বরং "সকল সিমের লোকেশন" এবং "পাওয়ারফুল API" ব্যবহারের ওপর জোর দেওয়া হয়েছে।
-আপনার GitHub-এর README.md ফাইলের বর্ণনা অংশটি এভাবে আপডেট করুন:
-🚀 NUMBER-TRACKER-404 (v10.0)
-> The Ultimate All-SIM Location Tracking Solution
-> 
-⚡ সম্পর্কে (About)
-NUMBER-TRACKER-404 হলো একটি অ্যাডভান্সড লোকেশন ট্র্যাকিং টুল। এতে ব্যবহার করা হয়েছে লেটেস্ট Location Tracking API, যা বাংলাদেশের যেকোনো মোবাইল অপারেটরের (GP, Robi, BL, Airtel, Teletalk) সিমের লোকেশন নির্ভুলভাবে খুঁজে বের করতে সক্ষম। এটি মূলত সাইবার সিকিউরিটি রিসার্চ এবং পার্সোনাল সেফটির জন্য ডিজাইন করা হয়েছে।
-✨ প্রধান সুবিধাসমূহ (Features)
- * 🛰️ All-SIM Tracking API: সকল সিমের লোকেশন ডাটা অ্যাক্সেস করার ক্ষমতা।
- * 📍 Real-Time Mapping: সরাসরি গুগল ম্যাপ লাইভ লোকেশন লিঙ্ক।
- * ⚡ Instant Response: দ্রুত রেজাল্ট এবং হাই-স্পিড ডাটাবেস।
- * 🔐 Premium Security: সিকিউর প্রিমিয়াম কি (Key) ভেরিফিকেশন সিস্টেম।
-🛠️ ইন্সটলেশন (Installation)
+
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=NUMBER-TRACKER-404&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h1 align="center">🚀 NUMBER-TRACKER-404 (v10.0)</h1>
+<p align="center">
+  <b>The Ultimate All-SIM Location Tracking Solution</b>
+</p>
+
+---
+
+## 📊 Status & Info
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-10.0-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Termux-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+</p>
+
+---
+
+## ⚡ About
+
+**NUMBER-TRACKER-404** একটি অ্যাডভান্সড লোকেশন ট্র্যাকিং টুল, যেখানে ব্যবহার করা হয়েছে লেটেস্ট **Location Tracking API**।
+
+এটি বাংলাদেশের সকল মোবাইল অপারেটরের (GP, Robi, Banglalink, Airtel, Teletalk) সিমের লোকেশন ট্র্যাক করার জন্য ডিজাইন করা হয়েছে।
+
+🎯 মূল উদ্দেশ্য:
+- Cyber Security Research  
+- Personal Safety  
+- Educational Use  
+
+---
+
+## ✨ Features
+
+- 🛰️ **All-SIM Tracking API**  
+  সকল সিমের লোকেশন ডাটা অ্যাক্সেস করার সক্ষমতা  
+
+- 📍 **Real-Time Mapping**  
+  সরাসরি Google Maps লাইভ লোকেশন  
+
+- ⚡ **Instant Response**  
+  দ্রুত রেজাল্ট এবং হাই-স্পিড API  
+
+- 🔐 **Premium Security**  
+  সিকিউর Key Verification System  
+
+---
+
+## 🛠️ Installation
+
+```bash
 apt update && apt upgrade -y
 pkg install python -y
 pkg install git -y
 pip install requests
+
 git clone https://github.com/DEVIL-DOOR/NUMBER-TRACKER-404
 cd NUMBER-TRACKER-404
 python number-location_404.py
 
-🔑 প্রিমিয়াম এক্সেস (Get Premium)
-আমাদের হাই-পাওয়ারফুল API এক্সেস করতে একটি প্রিমিয়াম কি (Key) প্রয়োজন। কি কিনতে যোগাযোগ করুন:
-👉 Official Bot: @location_track98_bot
-👉 Developer ID: @OJ_SiMPsO
+
+---
+
+📸 Preview
+
 <p align="center">
-<b>Developed by Shuvo | © SOCUETY 404</b>
+  <img src="https://user-images.githubusercontent.com/placeholder/demo1.png" width="250"/>
+  <img src="https://user-images.githubusercontent.com/placeholder/demo2.png" width="250"/>
 </p>
+---
+
+🔑 Premium Access
+
+💎 Full Power API ব্যবহার করতে Premium Key প্রয়োজন
+
+📩 Contact:
+
+🤖 Bot: https://t.me/location_track98_bot
+
+👨‍💻 Developer: https://t.me/OJ_SiMPsO
+
+
+
+---
+
+⚠️ Disclaimer
+
+> ⚠️ This tool is created for Educational, Cyber Security Research, and Personal Safety purposes only.
+Any misuse or illegal activity is strictly prohibited.
+Developer is not responsible for any misuse.
+
+
+
+
+---
+
+🧠 Author
+
+<p align="center">
+  <b>Developed by Shuvo</b><br>
+  © SOCUETY 404
+</p>
+---
+
+<!-- FOOTER --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
+```
+---
